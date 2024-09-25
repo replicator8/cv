@@ -1,0 +1,24 @@
+body {
+    background-color: #fdfaf8;
+    max-width: 90%;
+}
+
+img {
+    border-radius: 10px;
+}
+
+.block {
+    border-radius: 20px;
+    padding: 10px 20px;
+    background-color: #e6af86;
+    margin: 10px;
+}
+
+.experiance-table th, .experiance-table td {
+    border: 1px solid black;
+    padding: 5px;
+}
+
+.experiance-table {
+    border-collapse: collapse;
+}
